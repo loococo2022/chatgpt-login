@@ -26,7 +26,7 @@ Timestamp: 2023-01-05 15:02:33 UTC
 
 # 三、长期关注
         chatgpt相关问题本博客将持续跟进。参考之前的博文无需编程即可将chatgpt接入自己的微信公众号_Coding的叶子的博客-CSDN博客也可在公众号被中直接体验chatgpt或者将其接入自己的公众号（无需代理、注册账号），可直接使用。chatgpt网页版替代方法_Coding的叶子的博客-CSDN博客
-        微信公众号：乐乐感知学堂
+        微信公众号：乐乐感知学堂。
         CSDN：https://blog.csdn.net/suiyingy/article/details/128598359
 
         
